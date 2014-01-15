@@ -39,3 +39,7 @@ the find method used to search for the records:
 For more examples, see script.aculo.us:
 * http://script.aculo.us/demos/ajax/autocompleter
 * http://script.aculo.us/demos/ajax/autocompleter_customized
+
+## WARNING
+
+The test suite doesn't work at the moment.
