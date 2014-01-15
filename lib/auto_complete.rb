@@ -1,6 +1,8 @@
 # -*- encoding: utf-8 -*-
 
-require 'railties'
+require 'auto_complete/controller_methods'
+require 'auto_complete/macros_helper'
+require 'auto_complete/version'
 
 module AutoComplete
   class Engine < Rails::Engine
