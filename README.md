@@ -1,3 +1,23 @@
+# AutoComplete
+
+TODO: Write a gem description
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+    gem 'auto_complete'
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install auto_complete
+
+## Usage
+
 Example:
 
   # Controller
@@ -19,5 +39,3 @@ the find method used to search for the records:
 For more examples, see script.aculo.us:
 * http://script.aculo.us/demos/ajax/autocompleter
 * http://script.aculo.us/demos/ajax/autocompleter_customized
-
-Copyright (c) 2007 David Heinemeier Hansson, released under the MIT license   

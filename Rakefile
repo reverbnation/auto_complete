@@ -1,6 +1,9 @@
+# -*- encoding: utf-8; mode: ruby; -*-
+
 require 'rake' 
 require 'rake/testtask' 
-require 'rake/rdoctask' 
+require 'rdoc/task' 
+require 'bundler/gem_tasks'
  
 desc 'Default: run unit tests.' 
 task :default => :test 
